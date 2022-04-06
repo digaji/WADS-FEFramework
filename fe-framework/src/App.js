@@ -29,7 +29,7 @@ export default function SignInPage() {
           </Typography>
           <Avatar
             sx={{ mr: 1 }}
-            src="/static/kucing1.jpg"
+            src="/static/kucing1.png"
             alt="Kucing Avatar"
           />
           <Typography variant="h6" component="div">
